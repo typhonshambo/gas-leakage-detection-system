@@ -37,7 +37,11 @@ getting leaked by showing it in our computer.
 
 ### CIRCUIT DIAGRAM
 
-<img src = "./assets/circuit.png" width >
+<img src = "./assets/circuit.png"  >
+
+### TESTING
+<img src = "./assets/serialMonitor.png" width=300 >
+<img src = "./assets/circuit1.png" width=300 >
 
 ### LEGAL NOTES
 Don't use this project without giving me credits, this whole project was made for `Jawaharlal Nehru National Science Exhibition` when i was in 9th grade, it took a lots of efforts to develop this whole thing. 
